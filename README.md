@@ -1,4 +1,6 @@
 # Josh's Notes
-used # name to create headings
-# this is an H1 header (largest)
-###### this is an H6 header (smallest)
+
+## Summary
+
+This repository contains all of the notes taken by **[Josh Ho](https://github.com/joshho77)** for the **Lighthouse Labs Data Science Bootcamp!**
+
